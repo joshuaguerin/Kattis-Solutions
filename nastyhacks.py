@@ -1,5 +1,7 @@
-# easy
+# easy, io, arithmetic
 
+styhacks.py
+ Download nastyhacks.py
 n = int(input())
 
 for i in range(n):
@@ -11,4 +13,3 @@ for i in range(n):
         print("do not advertise")
     else:
         print("does not matter")
-
