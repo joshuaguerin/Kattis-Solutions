@@ -1,0 +1,3 @@
+# easy, output
+
+print("VELKOMIN!")
