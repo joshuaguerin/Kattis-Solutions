@@ -1,3 +1,4 @@
+# easy, lists, functional
 
 input()
 
