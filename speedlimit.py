@@ -1,3 +1,6 @@
+# easy, simulation, arithmetic
+# https://open.kattis.com/problems/speedlimit
+
 n = int(input())
 
 while n != -1:
