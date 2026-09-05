@@ -7,24 +7,17 @@ third = False
 # 'a' switch
 def call_a():
     global first, second
-    temp = second
-    second = first
-    first = temp
+    first, second = second, first
 
 # 'b' switch
 def call_b():
     global second, third
-    temp = second
-    second = third
-    third = temp
+    second, third = third, second
 
 # 'c' switch
 def call_c():
     global first, third
-    temp = first
-    first = third
-    third = temp
-
+    first, third = third, first
 
 swaps = input()
 
